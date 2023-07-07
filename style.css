@@ -1,0 +1,38 @@
+body{
+    background-image: url('download.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+
+}
+
+.text{
+    border-style: hidden;
+    border-width: 2px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 370px;
+    width: 200px;
+    position: fixed;
+    right: 30%;
+    top: 10%;
+    background-color: aliceblue;
+
+}
+
+.space{
+    border-style: hidden;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+    padding: 1em;
+    margin: 0 -1em;
+    position: fixed;
+    top: 84%;
+    right: 28%;
+    }
+
+
+
